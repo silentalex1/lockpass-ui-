@@ -1,5 +1,5 @@
 # lockpass-ui-
-a project you can lock your pc without turning off your pc 
+a project where you can lock your pc without turning off your pc 
 
 # video showcase: https://streamable.com/nvsnpm
 
